@@ -1,0 +1,42 @@
+not directed
+not weighted
+a b c d e f g h i
+a
+b
+c
+d
+
+b
+a
+e
+
+c
+a
+e
+f
+
+d
+a
+f
+
+e
+b
+c
+g
+
+f
+c
+d
+
+g
+e
+h
+i
+
+h
+g
+i
+
+i
+g
+h

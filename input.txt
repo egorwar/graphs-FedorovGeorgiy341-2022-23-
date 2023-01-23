@@ -1,0 +1,20 @@
+directed
+weighted
+Saratov Engels Samara Marks Arbuzovka1234567!Q
+Saratov
+Saratov 0
+Engels 3
+Marks 13
+Samara 50
+
+Engels
+Marks 0
+
+Samara
+Marks None
+
+Marks
+Engels 2
+
+Arbuzovka1234567!Q
+

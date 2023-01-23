@@ -1,0 +1,23 @@
+directed
+weighted
+s a b t d c
+s
+a 3
+t 4
+c 2
+
+a
+b 1
+t 5
+
+b
+t 2
+
+t
+
+d
+t 2
+
+c
+t 1
+d 8

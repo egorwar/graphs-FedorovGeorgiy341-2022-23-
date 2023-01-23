@@ -1,0 +1,22 @@
+not directed
+not weighted
+Saratov Engels Samara Marks Arbuzovka
+Saratov
+Saratov 0
+Engels 3
+Marks 13
+Samara 50
+
+Engels
+Saratov 3
+Marks 0
+
+Samara
+Saratov 50
+
+Marks
+Engels 0
+Saratov 13
+
+Arbuzovka
+
